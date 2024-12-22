@@ -79,5 +79,3 @@ public class CompareInput {
         }
     }
 }
-//01001814578
-//01000665304 ramz al salaba 
